@@ -2,21 +2,21 @@
 icon sosial media untuk menambahkan ditautan link sobat okey
 ---
 # whatsapp
-![whatsapp](Icons-logos/whatsapp-circle.png)
+![whatsapp](logo-icons/whatsapp-circle.png)
 # Instagram
-![instagram](Icons-logos/instagram-circle.png)
+![instagram](logo-icons/instagram-circle.png)
 # facebook
-![facebook](Icons-logos/facebook-circle.png)
+![facebook](logo-icons/facebook-circle.png)
 # twitter
-![twitter](Icons-logos/twitter-circle.png)
+![twitter](logo-icons/twitter-circle.png)
 # Gmail
-![gmail](Icons-logos/gmail.png)
+![gmail](logo-icons/gmail.png)
 # linkedin
-![linkedin](Icons-logos/linkedin-circle.png)
+![linkedin](logo-icons/linkedin-circle.png)
 # Google Play
-![google play](Icons-logos/google_play.png)
+![google play](logo-icons/google_play.png)
 # youtube
-![youtube](Icons-logos/youtube-circle.png)
+![youtube](logo-icons/youtube-circle.png)
 # Medium
-![Medium](Icons-logos/Medium-circle.png)
+![Medium](logo-icons/Medium-circle.png)
 
