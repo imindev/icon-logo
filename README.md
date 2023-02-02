@@ -1,4 +1,5 @@
-# icon
+# Social-Meadia-Icons
+icon sosial media untuk menambahkan ditautan link sobat okey
 ---
 # whatsapp
 ![whatsapp](logo-icons/whatsapp-circle.png)
@@ -30,4 +31,8 @@
 ![adobe xd](logo-icons/adobe-xd-icon.png)
 # Adobe Photoshop
 ![adobe photoshop](logo-icons/adobe-photoshop-icon.png)
+# Canva
+![canva](logo-icons/canva-icon.png)
+# Google Plus
+![google plus](logo-icons/google-plus-circle.png)
 
