@@ -1,5 +1,4 @@
-# Social-Meadia-Icons
-icon sosial media untuk menambahkan ditautan link sobat okey
+# icon logo 
 ---
 # whatsapp
 ![whatsapp](logo-icons/whatsapp-circle.png)
